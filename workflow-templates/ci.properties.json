@@ -1,0 +1,6 @@
+{
+  "name": "Oplytics CI",
+  "description": "Standard CI workflow for all Oplytics repositories",
+  "iconName": "octicon check-circle",
+  "categories": ["TypeScript"]
+}
