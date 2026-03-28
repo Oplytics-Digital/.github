@@ -1,0 +1,6 @@
+{
+  "name": "Oplytics E2E",
+  "description": "Playwright E2E test workflow for Oplytics subdomains",
+  "iconName": "octicon browser",
+  "categories": ["Testing", "TypeScript"]
+}
